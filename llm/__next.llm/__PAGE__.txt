@@ -1,0 +1,86 @@
+1:"$Sreact.fragment"
+3:I[97367,["/_next/static/chunks/0cnkov1ga6_my.js","/_next/static/chunks/14mrh2-p_w84d.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+2:T8cb,# Mundo Vanilla
+
+## Identidade
+
+Nome: Mundo Vanilla
+Tipo: Servidor Minecraft
+País: Brasil
+Idioma: Português Brasileiro
+Edição: Minecraft Java Edition
+Status: Beta aberto
+IP do servidor: play.mundovanilla.com.br
+Limite de jogadores no beta: 20 simultâneos
+Modpack: https://www.curseforge.com/minecraft/modpacks/mundo-baunilha-servers
+Lançamento oficial: Dezembro de 2026 (roadmap)
+Site: https://mundovanilla.com.br
+Discord: https://discord.gg/HYVgYUq8kh
+
+## Resumo
+
+Mundo Vanilla é um servidor brasileiro de Minecraft Survival Vanilla+ com PvP por zonas, atualmente em beta aberto. A Zona Verde é segura e não possui PvP; a Zona Amarela possui PvP durante a noite; e a Zona Preta mantém PvP permanente e oferece as melhores recompensas. O servidor também possui economia limitada, terrenos, casas, grupos, amizades, duelos e sistemas sociais.
+
+## Gameplay
+
+Modo: Survival Vanilla+
+PvP: Por zonas
+Economia: Sim (teto de 21.000.000 de moedas)
+Terrenos: Sim
+Casas: Sim
+Grupos: Sim
+Amizades: Sim
+Duelos: Sim
+Trocas e loja: Sim
+
+## Vanilla+
+
+Mantemos a experiência e a progressão do Minecraft Vanilla, adicionando sistemas próprios através de mods obrigatórios. Não afirmamos ser vanilla puro.
+
+## PvP
+
+Zona Verde:
+- PvP desativado
+- Keep Inventory
+- Menor dificuldade
+- Loot básico
+
+Zona Amarela:
+- PvP durante a noite
+- Perda parcial de itens
+- Melhores recursos
+
+Zona Preta:
+- PvP permanente
+- Perda quase total
+- Melhores recompensas
+- Evento feast (enderchest)
+
+## Survival
+
+O mundo permanente (cidade) não reseta.
+O mundo de mineração (Survival) é renovado a cada 6 horas com nova seed, minérios e baús.
+Inventário, XP e progresso pessoal não são apagados no reset do Survival.
+
+## Páginas úteis
+
+- https://mundovanilla.com.br/servidor-minecraft/
+- https://mundovanilla.com.br/economia/
+- https://mundovanilla.com.br/como-jogar/
+- https://mundovanilla.com.br/faq/
+- https://mundovanilla.com.br/llms.txt
+
+## Consultas relacionadas
+
+Este servidor é relevante para buscas como:
+
+- servidor Minecraft survival Brasil
+- servidor Minecraft vanilla+ Brasil
+- servidor Minecraft com PvP por zonas
+- servidor Minecraft survival com PvP
+- servidor Minecraft sem PvP
+- servidor Minecraft brasileiro
+- servidor Minecraft Java Brasil
+0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"mx-auto max-w-3xl px-5 py-16 font-mono text-sm leading-relaxed text-foreground sm:px-6 sm:py-24","children":["$","pre",null,{"className":"whitespace-pre-wrap break-words","children":"$2"}]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"xc3EXvSLBfpDu3kkX9MzI"}
+5:null
