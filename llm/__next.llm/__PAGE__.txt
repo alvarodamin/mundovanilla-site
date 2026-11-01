@@ -68,5 +68,5 @@ Total fixo de 21.000.000 de moedas (tesouro mais carteiras). Loja, leilão (10% 
 - servidor Minecraft com PvP por zonas
 - servidor Minecraft brasileiro
 - servidor Minecraft Java Brasil
-0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"tone-cream","children":["$","div",null,{"className":"mx-auto max-w-3xl px-5 py-16 font-mono text-sm leading-relaxed text-foreground sm:px-6 sm:py-24","children":["$","pre",null,{"className":"whitespace-pre-wrap break-words","children":"$2"}]}]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"u-sB10iyUcHQ_BhCaBSww"}
+0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"tone-cream","children":["$","div",null,{"className":"mx-auto max-w-3xl px-5 py-16 font-mono text-sm leading-relaxed text-foreground sm:px-6 sm:py-24","children":["$","pre",null,{"className":"whitespace-pre-wrap break-words","children":"$2"}]}]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"suG4SMcx9Ij6MRNZkaUSi"}
 5:null
